@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "seaweed.json"
+  ],
+  "homeserver_url": "https://mozilla.modular.im"
+}
